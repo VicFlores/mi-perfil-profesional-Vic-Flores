@@ -50,3 +50,8 @@ alojamientos, reservas turísticas, blog, pasarela de pago y automatización de 
 administrativos con **n8n**
 
 ---
+
+## 📬 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vicflores11/)
+- 📧 vicflores2211@gmail.com
